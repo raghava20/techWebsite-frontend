@@ -28,8 +28,8 @@ const B2bMarketResearch = () => {
               insights and robust tracking, we ensure your brand voice connects
               with the right audience.
             </p>
-            <InsightArrowIcon className="w-6 h-6 fill-black mt-3 cursor-pointer" />
-            <div className="absolute right-0 top-[40%] w-full h-full flex justify-end items-end">
+            <InsightArrowIcon className="w-10 h-10 fill-black mt-3 cursor-pointer" />
+            <div className="absolute right-0 top-[75%] w-full h-full flex justify-end items-end">
               <ResearchIcon1 className=" w-full h-full " />
             </div>
           </div>
@@ -46,8 +46,8 @@ const B2bMarketResearch = () => {
                 segments, we provide the insights to make bold, informed moves.
               </p>
             </div>
-            <InsightArrowIcon className="w-6 h-6 fill-black mt-3 cursor-pointer" />
-            <div className="absolute -right-[30%] bottom-0 w-full h-full flex justify-center items-center">
+            <InsightArrowIcon className="w-10 h-10 fill-black mt-3 cursor-pointer" />
+            <div className="absolute -right-[50%] bottom-0 w-full h-full flex justify-center items-center">
               <ResearchIcon2 className=" w-[80%] h-[80%] " />
             </div>
           </div>
@@ -66,8 +66,8 @@ const B2bMarketResearch = () => {
                 }
               </p>
             </div>
-            <InsightArrowIcon className="w-6 h-6 fill-black mt-3 cursor-pointer" />
-            <div className="absolute -right-[40%] bottom-0  w-full h-full flex justify-end items-center">
+            <InsightArrowIcon className="w-10 h-10 fill-black mt-3 cursor-pointer" />
+            <div className="absolute -right-[80%] bottom-0 top-[10%]  w-full h-full flex ">
               <ResearchIcon3 className=" w-full h-full " />
             </div>
           </div>
@@ -80,8 +80,8 @@ const B2bMarketResearch = () => {
               of product development. Our insights help you align innovation
               with user expectations — minimizing risk and maximizing relevance.
             </p>
-            <InsightArrowIcon className="w-6 h-6 fill-black mt-3 cursor-pointer" />
-            <div className="absolute right-[10%] -top-[2%] w-full h-full flex justify-end items-start">
+            <InsightArrowIcon className="w-10 h-10 fill-black mt-3 cursor-pointer" />
+            <div className="absolute right-[10%] top-[8%] w-full h-full flex justify-end items-start">
               <ResearchIcon4 className=" w-[40%] h-[40%] " />
             </div>
             <div className="absolute right-[10%] top-0 w-full h-full flex justify-end items-end">

@@ -160,7 +160,7 @@ const NavComponents = ({ currentIndex }) => {
     <div
       className={`bg-primary w-full ${
         currentIndex == 1 ? "h-72 -bottom-[450%]" : "h-48 -bottom-[300%]"
-      } px-20 absolute  inline-block animate-fadeout text-white py-10`}
+      } px-20 absolute  inline-block animate-fadeout text-white py-10 z-50`}
     >
       <div className="flex gap-4">
         {" "}

@@ -11,25 +11,25 @@ import {
 const MarketInsight = () => {
   const CardData = [
     {
-      icon: <InsightIcon1 className="w-8 h-8" />,
+      icon: <InsightIcon1 className="w-14 h-11" />,
       name: "Audience",
       description:
         "Tap into a wide panel of respondents for any of your market research needs. ",
     },
     {
-      icon: <InsightIcon2 className="w-8 h-8" />,
+      icon: <InsightIcon2 className="w-14 h-11" />,
       name: "Qualitative Research",
       description:
         "Tap into a wide panel of respondents for any of your market research needs. ",
     },
     {
-      icon: <InsightIcon3 className="w-8 h-8" />,
+      icon: <InsightIcon3 className="w-14 h-11" />,
       name: "Quantitative Research",
       description:
         "Tap into a wide panel of respondents for any of your market research needs. ",
     },
     {
-      icon: <InsightIcon2 className="w-8 h-8" />,
+      icon: <InsightIcon2 className="w-14 h-11" />,
       name: "Quality Checks",
       description:
         "Tap into a wide panel of respondents for any of your market research needs. ",
@@ -73,7 +73,7 @@ const Cards = ({ icon, name, description }) => {
       </div>
 
       <button className="bg-primary group-hover:bg-white  p-2 rounded-tl-md absolute bottom-0 right-0 w-[60px] hover:cursor-pointer z-10 flex justify-center">
-        <InsightArrowIcon className="w-6 h-6  group-hover:fill-black fill-white" />
+        <InsightArrowIcon className="w-10 h-6  group-hover:fill-black fill-white" />
       </button>
 
       <div className="w-full h-full absolute bg-primary top-0 left-0 opacity-0 group-hover:opacity-90 transition-all duration-400 ease-in-out"></div>

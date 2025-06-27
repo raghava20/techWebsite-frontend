@@ -65,7 +65,7 @@ const Cards = ({ image, name, description }) => {
       </div>
 
       <button className="bg-primary p-2 rounded-tl-md absolute bottom-0 right-0 w-[60px] hover:cursor-pointer flex justify-center">
-        <InsightArrowIcon className="w-6 h-6" />
+        <InsightArrowIcon className="w-10 h-6" />
       </button>
     </section>
   );

@@ -1,13 +1,6 @@
-import { Barlow, Inter } from "next/font/google";
+import { Barlow } from "next/font/google";
 import "./globals.css";
 
-export const inter = Inter({
-  weight: ["100", "200", "300", "400", "500", "600", "700"],
-  subsets: ["latin"],
-  style: ["normal"],
-  display: "swap",
-  variable: "--font-Inter",
-});
 export const barlow = Barlow({
   weight: ["100", "200", "300", "400", "500", "600", "700"],
   subsets: ["latin"],

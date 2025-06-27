@@ -52,7 +52,7 @@ const Footer = () => {
     <main className="bg-primary text-white">
       <section className="flex pt-10 gap-10 bg-primary justify-center  items-start px-20 2xl:px-40 w-full flex-wrap lg:flex-nowrap flex-row ">
         <div>
-          <Logo className="w-20 h-10 scale-200 ml-10" />
+          <Logo className=" scale-120 ml-4" />
           <div className="flex gap-4 mt-5">
             <LinkedInIcon className="w-10 h-10" />
             <TwitterIcon className="w-10 h-10" />
@@ -76,7 +76,7 @@ const Footer = () => {
           className="absolute right-7 hover:cursor-pointer -bottom-2  "
           onClick={() => scrollToTop(0)}
         >
-          <ScrollTop className="w-12 h-12 " />
+          <ScrollTop className="w-16 h-12 " />
         </p>
       </section>
     </main>

@@ -1,4 +1,3 @@
-import Image from "next/image";
 import HeroSection from "./components/heroSection";
 import MarketInsight from "./components/marketInsight";
 import B2bMarketResearch from "./components/b2bMarketResearch";
