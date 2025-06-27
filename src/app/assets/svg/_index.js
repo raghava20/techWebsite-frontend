@@ -1,0 +1,15 @@
+export { default as ArrowIcon } from "./ArrowIcon.svg";
+export { default as InsightIcon1 } from "./InsightIcon1.svg";
+export { default as InsightIcon2 } from "./InsightIcon2.svg";
+export { default as InsightIcon3 } from "./InsightIcon3.svg";
+export { default as InsightArrowIcon } from "./InsightArrowIcon.svg";
+export { default as InsightImage } from "./InsightImage.svg";
+export { default as Logo } from "./Logo.svg";
+export { default as TwitterIcon } from "./TwitterIcon.svg";
+export { default as VimeoIcon } from "./VimeoIcon.svg";
+export { default as LinkedInIcon } from "./LinkedInIcon.svg";
+export { default as ScrollTop } from "./ScrollTop.svg";
+export { default as ResearchIcon1 } from "./ResearchIcon1.svg";
+export { default as ResearchIcon2 } from "./ResearchIcon2.svg";
+export { default as ResearchIcon3 } from "./ResearchIcon3.svg";
+export { default as ResearchIcon4 } from "./ResearchIcon4.svg";
